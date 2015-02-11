@@ -1,0 +1,10 @@
+#connect-four {
+  text-align: center;
+}
+
+.empty {
+  height: 50px;
+  width: 50px;
+  background-image: url("images/empty.jpg");
+  display:inline-block;
+}
