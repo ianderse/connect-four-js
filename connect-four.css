@@ -8,3 +8,17 @@
   background-image: url("images/empty.jpg");
   display:inline-block;
 }
+
+.red {
+  height: 50px;
+  width: 50px;
+  background-image: url("images/red.jpg");
+  display:inline-block;
+}
+
+.blue {
+  height: 50px;
+  width: 50px;
+  background-image: url("images/blue.jpg");
+  display:inline-block;
+}
